@@ -1,0 +1,37 @@
+//Functions
+def hello(){
+  println("Hello World")
+}
+
+
+name="John"
+println(name)
+
+// String
+
+name="JOhn0q5454 {oiafdioajfdaif"
+println(name)
+
+//Bloolean
+
+day=0
+if(day) {
+	println("Good Afternoon")
+}
+else {
+ println("Good Night")
+}
+// List
+students=['first_name':'JOhn', 'last_name': 'Sam', 'middle_name':'Mary']
+println(students['first_name'])
+println(students['middle_name'])
+println(students['last_name'])
+
+//Intergers
+number=5
+println(number)
+
+hello()
+hello()
+hello()
+hello()
